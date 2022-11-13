@@ -1,2 +1,2 @@
-# CoralPort
-Port of "Coral" game to C language.
+# CorralPort
+Port of "Corral" game to C language.
